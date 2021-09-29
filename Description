@@ -1,0 +1,6 @@
+This module contains my code for Part 1,2,3 and 5.
+
+In Part 1, I have read the off file and normalised the vertices to bring my object in center.
+In Part 2, I have multiplied each position with a rotation matrix in Vertex shader.
+In Part 3, I have used mix() function to color the vertices based on their z coordinates.
+In Part 5, I have applied scaling on the model to shrink it's size along the y-axis and then make it come back to original shape.
